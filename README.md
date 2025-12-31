@@ -17,23 +17,23 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 
 
 <p align="center">
-  <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/fork">
-    <img src="https://img.shields.io/github/forks/AMANTYA1/RaiChu-MusicV2?color=dark&label=FORK&logo=github&style=plastic"width="100" height="35"> 
+  <a href="https://github.com/Kannadigaxd/Karnataka_Superbot/fork">
+    <img src="https://img.shields.io/github/forks/Kannadigaxd/Karnataka_Superbot?color=dark&label=FORK&logo=github&style=plastic"width="100" height="35"> 
   </a>
   <a href="https://github.com/youtubeslgeekshow/Video-call-bot/stars">
-    <img src="https://img.shields.io/github/stars/AMANTYA1/RaiChu-MusicV2?color=dark&label=STARS&logo=github&style=plastic"width="100" height="35">
+    <img src="https://img.shields.io/github/stars/Kannadigaxd/Karnataka_Superbot?color=dark&label=STARS&logo=github&style=plastic"width="100" height="35">
   </a>
 </p>  
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AMANTYA1&repo=RaiChuMusic&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=kannadigaxd&repo=Karnataka_Superbot&theme=dark)
 
-## Find me here : [RaiChu](https://t.me/BooNullXbot)
+## Find me here : [Shaan](https://t.me/About_Shaan)
 
 🏷️ --**Setting Up**-- :
-- 1.) first, add @JenniFer_x_RoBot to your group.
+- 1.) first, add @Karnataka_Superbot to your group.
 - 2.) then promote me as admin and give all permissions except anonymous admin.
-- 3.) add @CrowXnull to your group.
+- 3.) add @karunadaking to your group.
 - 4.) turn on the voice chat first before start to play song.
 - 5.) type /play (reply to video) to start streaming.
 - 6.) type /end to end the video streaming.
@@ -72,7 +72,7 @@ Get pyrogram `SESSION` from here:
 The easiest way to host this bot
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AMANTYA1/RaiChuMusic"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kannadigaxd/Karnataka_Superbot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 
 ## VPS Deployment
